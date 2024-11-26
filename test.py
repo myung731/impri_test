@@ -2,4 +2,4 @@ def substract(a, b) :
     return a-b
 
 def add(a,b) :
-    return a+b
+    return a-b
