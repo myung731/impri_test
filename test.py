@@ -6,3 +6,6 @@ def add(a,b) :
 
 def multiple(a,b) :
     return a*b
+
+def square(a) :
+    return a*a
